@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SayiTahminOyunu</string>
+    <string name="tahmin_et">Tahmin Et</string>
+    <string name="say_tahmin_oyunu">Sayı Tahmin Oyunu</string>
+    <string name="tahmininiz">Tahmininiz</string>
+    <string name="l_tfen_bir_say_giriniz">Lütfen Bir Sayı Giriniz</string>
+    <string name="todo">TODO</string>
+    <string name="skorunuz">Skorunuz:</string>
+</resources>
